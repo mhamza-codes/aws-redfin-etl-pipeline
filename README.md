@@ -27,7 +27,7 @@ This project demonstrates a complete **Data Engineering pipeline** that extracts
 
 ## 🏗️ Architecture
 
-![Architecture](architecture/architecture.jpg)
+![Architecture](architecture/architecture.png)
 
 ---
 
