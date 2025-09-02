@@ -35,8 +35,8 @@ This project demonstrates a complete **Data Engineering pipeline** that extracts
 
 - `dags/redfin_analytics.py` → Apache Airflow DAG for ETL pipeline  
 - `snowflake/worksheet.sql` → Snowflake schema, stage, file format & Snowpipe setup  
-- `architecture/architecture.jpg` → End-to-end architecture diagram
-- `visualization/visualization.jpg` → Data Visualization
+- `architecture/architecture.png` → End-to-end architecture diagram
+- `visualization/visualization.png` → Data Visualization
 - `requirements.txt` → Project dependencies
 - `commands.txt` → Shell script with all commands for AWS EC2 setup & Airflow run
 ---
