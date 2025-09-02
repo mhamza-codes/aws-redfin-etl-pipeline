@@ -34,7 +34,7 @@ This project demonstrates a complete **Data Engineering pipeline** that extracts
 ## 📂 Repository Contents
 
 - `dags/redfin_analytics.py` → Apache Airflow DAG for ETL pipeline  
-- `snowflake/worksheet.sql` → Snowflake schema, stage, file format & Snowpipe setup  
+- `snowflake/worksheet.txt` → Snowflake schema, stage, file format & Snowpipe setup  
 - `architecture/architecture.png` → End-to-end architecture diagram
 - `visualization/visualization.png` → Data Visualization
 - `requirements.txt` → Project dependencies
